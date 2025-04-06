@@ -1,1 +1,3 @@
-# CIS-25-Midterm
+# CIS-25-Midterm 
+
+## Functions A and B
